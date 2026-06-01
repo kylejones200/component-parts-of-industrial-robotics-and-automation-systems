@@ -11,14 +11,7 @@ Robots play a critical role in industrial automation, enhancing productivity, pr
 
 A robot controller is a specialized computer designed to communicate with the robot and direct its movements. It serves as the link between the human operator and the robot. The controller comprises hardware and software components that perform various tasks, from motion control to data processing.
 
-## About
 
-Place the code for this article in this repository.
-The original article export is saved as `article.md`.
-
-## Files
-
-Add your `.ipynb`, `.py`, `.yaml`, `.js`, `.ts`, or other project files here.
 
 ## Disclaimer
 
